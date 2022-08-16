@@ -1,10 +1,10 @@
 {
-  "name": "tinykeys",
+  "name": "@workduck-io/tinykeys",
   "version": "1.4.0",
   "description": "A tiny (~400 B) & modern library for keybindings.",
   "author": "Jamie Kyle <me@thejameskyle.com>",
   "license": "MIT",
-  "repository": "jamiebuilds/tinykeys",
+  "repository": "https://github.com/workduck-io/tinykeys",
   "source": "src/tinykeys.ts",
   "main": "dist/tinykeys.js",
   "module": "dist/tinykeys.module.js",

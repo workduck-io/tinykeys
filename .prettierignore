@@ -9,3 +9,4 @@ package-lock.json
 tsconfig.json
 tsconfig.*.json
 .*ignore
+.npmrc
